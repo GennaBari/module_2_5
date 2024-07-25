@@ -1,13 +1,3 @@
-# def get_matrix(n, m, value):
-#     matrix = []
-#     line = []
-#     for i in range(m):
-#         matrix.append(value)
-#     for j in range(n):
-#         matrix.append(value)
-#     print(matrix)
-#     return matrix
-
 def get_matrix(n, m, value):
       matrix = []
       for i in range(n):
